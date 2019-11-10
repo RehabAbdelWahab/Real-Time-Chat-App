@@ -25,7 +25,7 @@ class MessageController extends Controller
         $msg->user_id=1;
         $msg->save();
          // $msg = Auth::id()->messagesfunc()->create($request->all());
-        //  broadcast(new MessageDelivered($msg))->toOthers();
-         event(new MessageDelivered($msg));
+         broadcast(new MessageDelivered($msg))->toOthers();
+        //  event(new MessageDelivered($msg));
     }
 }
