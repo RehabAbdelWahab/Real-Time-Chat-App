@@ -20,6 +20,6 @@ composer install
 php artisan migrate
 ```
 
-# Demo
+# Video Demo
 
 [![Watch the video](https://i.ytimg.com/vi/zZlzyz9jeqI/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDiFXXZlTAUpiQL8_fFDttPLeHQpg)](https://www.youtube.com/watch?v=zZlzyz9jeqI)
