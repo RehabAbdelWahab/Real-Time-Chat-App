@@ -1,3 +1,4 @@
+# Real-Time-Chat-App
 # How to run:
 
 Open the console and cd your project root directory
@@ -19,6 +20,6 @@ composer install
 php artisan migrate
 ```
 
-# Real-Time-Chat-App
+# Demo
 
-![chat](https://github.com/RehabAbdelWahab/Real-Time-Chat-App/blob/master/Demo.mp4)
+[![Watch the video](https://i.ytimg.com/vi/zZlzyz9jeqI/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDiFXXZlTAUpiQL8_fFDttPLeHQpg)](https://www.youtube.com/watch?v=zZlzyz9jeqI)
